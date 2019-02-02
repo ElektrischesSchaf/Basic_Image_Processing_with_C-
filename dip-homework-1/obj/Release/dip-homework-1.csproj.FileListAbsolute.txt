@@ -1,0 +1,15 @@
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\bin\Release\dip-homework-1.exe.config
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\bin\Release\dip-homework-1.exe
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\bin\Release\dip-homework-1.pdb
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.component.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.edgedetection.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.extraction.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.filter.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.Form1.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.histogram.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.overlapping.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.Properties.Resources.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip_homework_1.threshold.resources
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip-homework-1.csproj.GenerateResource.Cache
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip-homework-1.exe
+D:\CloudStation\butters_home_CloudStation\VS2015_N16074988\dip-homework-1\obj\Release\dip-homework-1.pdb
