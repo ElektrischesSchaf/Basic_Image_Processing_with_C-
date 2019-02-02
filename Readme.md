@@ -1,0 +1,8 @@
+![Menu](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/menu.png)
+![RGB Extractino and Translation](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/01.png)
+![Smooth Filter (mean and median)](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/02.png)
+![Histogram Equalization](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/03.png)
+![User defined thresholding](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/04.png)
+![Sobel edge detection](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/05.png)
+![Edge overlapption](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/06.png)
+![Connected component](https://github.com/ElektrischesSchaf/Basic_Image_Processing_with_C_sharp/blob/master/Screenshots/07.png)
